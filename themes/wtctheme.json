@@ -1,0 +1,48 @@
+{
+  "background": "#ffffffbb",
+  "brand": "#DD91C6",
+  "secondary": "#3E8914",
+  "focus": "#262626",
+  "text": "#262626",
+  "font": {
+  "family": "Poppins"
+},
+  "calendar": {
+    "today": {
+      "background": "#B4B6BB",
+      "text": "262626",
+      "border": "ffffffbb"
+    },
+    "day": {
+      "background": "#ffffffbb",
+      "text": "262626",
+      "border": "141414"
+    },
+    "past": {
+      "background": "#ffffff73",
+      "text": "262626",
+      "border": "141414"
+    },
+    "empty": {
+      "background": "transparent",
+      "border": "141414"
+    },
+    "weekdays": {
+      "background": "#ffffff22",
+      "border": "141414"
+    },
+    "event": {
+      "background": "#DD91C6",
+      "text": "F5F5F5"
+    },
+    "past-event": {
+      "background": "#B4B6BB",
+      "text": "262626"
+    },
+    "modal": {
+      "text": "262626",
+      "separator": "#666",
+      "background": "262626"
+    }
+  }
+}
