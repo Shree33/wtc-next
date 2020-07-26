@@ -5,10 +5,16 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next export"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
     "date-fns": "^2.14.0",
+    "firebase": "^7.17.1",
+    "firebase-admin": "^8.13.0",
+    "firebase-functions": "^3.7.0",
+    "firebase-tools": "^8.5.0",
     "gray-matter": "^4.0.2",
     "grommet": "^2.14.0",
     "next": "^9.4.4",
@@ -17,7 +23,8 @@
     "react-dom": "16.13.1",
     "remark": "^12.0.0",
     "remark-html": "^11.0.2",
-    "styled-components": "^5.1.1"
+    "styled-components": "^5.1.1",
+    "swr": "^0.2.3"
   },
   "devDependencies": {}
 }

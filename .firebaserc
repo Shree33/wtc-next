@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "wtc-next",
+    "production": "wtc-next",
+    "staging": "wtc-next"
+  }
+}
